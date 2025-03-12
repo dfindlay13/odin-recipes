@@ -11,3 +11,5 @@ from the HTML section of the course in to practice!
 - Lists
 - Links and Images
 - Commit Messages
+
+## Reflection
